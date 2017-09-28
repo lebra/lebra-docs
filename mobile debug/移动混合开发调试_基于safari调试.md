@@ -1,8 +1,8 @@
 # 使用safari调试iphone上的Hybrid App
 `注意：该调试方案无需借助XCode`
 调试分两大类
-* Xcode模拟器+Safari调试
-* iphone+Safari调试
+* `Xcode模拟器+Safari调试`
+* `iphone+Safari调试`
  
 有Xcode环境的同学可以看看[《基于XCode模拟器调试JavaScript.docx》](https://github.com/lebra/lebra-docs/blob/master/mobile%20debug/%E5%9F%BA%E4%BA%8EXCode%E6%A8%A1%E6%8B%9F%E5%99%A8%E8%B0%83%E8%AF%95JavaScript.docx)
 这里我们讲解一下使用真机iphone＋safari对混合（Hybrid）开发的调试方案。
