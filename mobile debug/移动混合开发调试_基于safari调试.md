@@ -36,12 +36,12 @@
 iuapmobile云编译及证书上传参看[这里](http://mobile.yyuap.com/UAPMobile/new/static/instruction.html?cid=18&url=2c948d0857f959960157f9647c170002.md)   
         
 ### 真机调试
-#### 先说一下真机调试的坑（特别注意）
+* #### 先说一下真机调试的坑（特别注意）
 只有使用自己的开发者证书打出来打app，安装到手机后，才可以借助safari进行调试。    
 这里需要说明的是：    
 mac上的safari的版本和手机iphone的ios版本是有关系的，具体的这里就不详细赘述了，总之一句话，不要让mac上的safari版本和iphone上的ios版本差的太大，例如iPhone的ios版本为`11.x.x`，mac上safari版本为`9.0.x`，亲测就不行，safari在［开发］找不到iphone，无法调试，但是iphone的ios为`10.x.x`或`9.x.x`的话，就可以正常调试。
 
-#### 真机调试的具体步骤
+* #### 真机调试的具体步骤
 1. `safari打开开发功能`    
 打开Safari偏好设置，选中“高级菜单“，在页面最下方看到“在菜单中显示开发菜单”的复选框，在复选框内打钩，这样设置完毕就能在Safari菜单中看到开发菜单了
 1. `iphone开启调试`    
